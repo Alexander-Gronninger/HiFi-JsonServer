@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "navn": "Creek Classic",
+      "brand": "Creek",
+      "category": "CD-player",
+      "description": "",
+      "amount": "5",
+      "colors": ["silver"],
+      "price": "50"
+    }
+  ]
+}
