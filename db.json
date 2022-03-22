@@ -15,6 +15,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/CDPlayers/creek_classic_cd.jpg",
+        "silver": "http://localhost:3000/images/CDPlayers/creek_classic_cd.jpg"
       }
     },
     {
@@ -32,6 +36,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/CDPlayers/creek_destiny_cd.jpg",
+        "silver": "http://localhost:3000/images/CDPlayers/creek_destiny_cd.jpg"
       }
     },
     {
@@ -49,6 +57,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg",
+        "silver": "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg"
       }
     },
     {
@@ -66,6 +78,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/CDPlayers/exp_20105_cd.jpg",
+        "silver": "http://localhost:3000/images/CDPlayers/exp_20105_cd.jpg"
       }
     },
     {
@@ -83,6 +99,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/CDPlayers/creek_classic.jpg",
+        "silver": "http://localhost:3000/images/CDPlayers/creek_classic.jpg"
       }
     },
     {
@@ -100,6 +120,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/DVDPlayers/exposure_20105.jpg",
+        "silver": "http://localhost:3000/images/DVDPlayers/exposure_20105.jpg"
       }
     },
     {
@@ -117,6 +141,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg",
+        "black": "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg"
       }
     },
     {
@@ -134,6 +162,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/DVDPlayers/parasound_halod3.jpg",
+        "silver": "http://localhost:3000/images/DVDPlayers/parasound_halod3.jpg"
       }
     },
     {
@@ -151,6 +183,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/PowerAmplifiers/manley_mahi.jpg",
+        "black": "http://localhost:3000/images/PowerAmplifiers/manley_mahi.jpg"
       }
     },
     {
@@ -168,6 +204,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/PowerAmplifiers/manley_neoclassic300b.jpg",
+        "silver": "http://localhost:3000/images/PowerAmplifiers/manley_neoclassic300b.jpg"
       }
     },
     {
@@ -185,6 +225,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/PowerAmplifiers/manley_snapper.jpg",
+        "grey": "http://localhost:3000/images/PowerAmplifiers/manley_snapper.jpg"
       }
     },
     {
@@ -202,6 +246,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/PowerAmplifiers/parasound_haloa23.jpg",
+        "silver": "http://localhost:3000/images/PowerAmplifiers/parasound_haloa23.jpg"
       }
     },
     {
@@ -219,6 +267,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Preamp/creek_obh_22_passive_preamp.jpg",
+        "silver": "http://localhost:3000/images/Preamp/creek_obh_22_passive_preamp.jpg"
       }
     },
     {
@@ -236,6 +288,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Preamp/parasound_classic7100.jpg",
+        "black": "http://localhost:3000/images/Preamp/parasound_classic7100.jpg"
       }
     },
     {
@@ -253,6 +309,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Preamp/parasound_halop3.jpg",
+        "silver": "http://localhost:3000/images/Preamp/parasound_halop3.jpg"
       }
     },
     {
@@ -270,6 +330,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Preamp/project_prebox.jpg",
+        "silver": "http://localhost:3000/images/Preamp/project_prebox.jpg"
       }
     },
     {
@@ -287,6 +351,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.jpg",
+        "black": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.jpg"
       }
     },
     {
@@ -304,6 +372,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/Speakers/epos_m5.jpg",
+          "wood": "http://localhost:3000/images/Speakers/epos_m5.jpg"
         }
       },
     {
@@ -321,6 +393,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg",
+        "wood": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg"
       }
     },
     
@@ -339,6 +415,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Speakers/harbeth_monitor30.jpg",
+        "silver": "http://localhost:3000/images/Speakers/harbeth_monitor30.jpg"
       }
     },
     {
@@ -356,6 +436,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg",
+        "wood": "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg"
       }
     },
     {
@@ -373,6 +457,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/IntegratedAmplifier/creek_a501.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_a501.jpg"
       }
     },
     {
@@ -390,6 +478,10 @@
         "width": "",
         "manufacturer": "",
         "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/IntegratedAmplifier/creek_classic5350se.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_classic5350se.jpg"
       }
     },
     {
@@ -407,6 +499,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg",
+          "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg"
         }
       },
       {
@@ -424,6 +520,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg",
+          "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg"
         }
       },
       {
@@ -441,6 +541,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg",
+          "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg"
         }
       },
       {
@@ -458,6 +562,12 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
+          "black": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
+          "red": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_red_1.jpg",
+          "yellow": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_yellow_1.jpg"
         }
       },
       {
@@ -475,6 +585,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg",
+          "silver": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg"
         }
       },
       {
@@ -492,6 +606,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg",
+          "black": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg"
         }
       },
       {
@@ -509,6 +627,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg"
         }
       },
       {
@@ -526,6 +648,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg"
         }
       },
       {
@@ -543,6 +669,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg"
         }
       },
       {
@@ -560,6 +690,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg"
         }
       },
       {
@@ -577,6 +711,10 @@
           "width": "",
           "manufacturer": "",
           "hdmiOutput": ""
+        },
+        "images": {
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg"
         }
       }
   ],
