@@ -2,13 +2,23 @@
   "products": [
     {
       "id": "1",
-      "navn": "Creek Classic",
+      "name": "Creek Classic",
       "brand": "Creek",
       "category": "CD-player",
       "description": "",
       "amount": "5",
       "colors": ["silver"],
-      "price": "50"
+      "price": ""
+    },
+    {
+      "id": "2",
+      "name": "Creek destiny",
+      "brand": "test",
+      "category": "CD-player",
+      "description": "",
+      "amount": "17",
+      "colors": [],
+      "price": ""
     }
   ]
 }
