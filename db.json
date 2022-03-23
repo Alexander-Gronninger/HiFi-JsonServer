@@ -564,10 +564,10 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
-          "black": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
-          "red": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_red_1.jpg",
-          "yellow": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_yellow_1.jpg"
+          "default": "http://localhost:3000/images/Turntable/pro_ject_debut_3_bl.jpg",
+          "black": "http://localhost:3000/images/Turntable/pro_ject_debut_3_bl.jpg",
+          "red": "http://localhost:3000/images/Turntable/pro_ject_debut_3_red_1.jpg",
+          "yellow": "http://localhost:3000/images/Turntable/pro_ject_debut_3_yellow_1.jpg"
         }
       },
       {
@@ -587,8 +587,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg",
-          "silver": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg"
+          "default": "http://localhost:3000/images/Turntable/pro_ject_rpm_5.jpg",
+          "silver": "http://localhost:3000/images/Turntable/pro_ject_rpm_5.jpg"
         }
       },
       {
@@ -608,8 +608,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg",
-          "black": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg"
+          "default": "http://localhost:3000/images/Turntable/pro_ject_rpm10.jpg",
+          "black": "http://localhost:3000/images/Turntable/pro_ject_rpm10.jpg"
         }
       },
       {
@@ -629,8 +629,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg"
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_jd102b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_jd102b.jpg"
         }
       },
       {
@@ -650,8 +650,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg"
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_jd202a.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_jd202a.jpg"
         }
       },
       {
@@ -671,8 +671,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg"
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_jd300b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_jd300b.jpg"
         }
       },
       {
@@ -692,8 +692,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg"
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_jd302b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_jd302b.jpg"
         }
       },
       {
@@ -713,8 +713,8 @@
           "hdmiOutput": ""
         },
         "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg"
+          "default": "http://localhost:3000/images/TubeAmplifier/jolida_jd502b.jpg",
+          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_jd502b.jpg"
         }
       }
   ],
