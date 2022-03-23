@@ -8,7 +8,7 @@
       "description": "",
       "stock": 50,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -29,7 +29,7 @@
       "description": "",
       "stock": 23,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -50,7 +50,7 @@
       "description": "",
       "stock": 43,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -71,7 +71,7 @@
       "description": "",
       "stock": 73,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -80,8 +80,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/CDPlayers/exp_20105_cd.jpg",
-        "silver": "http://localhost:3000/images/CDPlayers/exp_20105_cd.jpg"
+        "default": "http://localhost:3000/images/CDPlayers/exp_20105_cd.gif",
+        "silver": "http://localhost:3000/images/CDPlayers/exp_20105_cd.gif"
       }
     },
     {
@@ -92,7 +92,7 @@
       "description": "",
       "stock": 342,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -113,7 +113,7 @@
       "description": "",
       "stock": 12,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -134,7 +134,7 @@
       "description": "",
       "stock": 100,
       "colors": ["black"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -155,7 +155,7 @@
       "description": "",
       "stock": 342,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -176,7 +176,7 @@
       "description": "",
       "stock": 43,
       "colors": ["black"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -197,7 +197,7 @@
       "description": "",
       "stock": 90,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -218,7 +218,7 @@
       "description": "",
       "stock": 67,
       "colors": ["grey"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -239,7 +239,7 @@
       "description": "",
       "stock": 49,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -260,7 +260,7 @@
       "description": "",
       "stock": 23,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -281,7 +281,7 @@
       "description": "",
       "stock": 19,
       "colors": ["black"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -302,7 +302,7 @@
       "description": "",
       "stock": 72,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -323,7 +323,7 @@
       "description": "",
       "stock": 84,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": 250.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -344,7 +344,7 @@
       "description": "",
       "stock": 11,
       "colors": ["black"],
-      "price": 500.0,
+      "price": 500.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -353,8 +353,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.jpg",
-        "black": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.jpg"
+        "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif",
+        "black": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif"
       }
     },
     {
@@ -365,7 +365,7 @@
         "description": "",
         "stock": 301,
         "colors": ["Wood"],
-        "price": 500.0,
+        "price": 500.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -386,7 +386,7 @@
       "description": "",
       "stock": 992,
       "colors": ["Wood"],
-      "price": 500.0,
+      "price": 500.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -408,7 +408,7 @@
       "description": "",
       "stock": 43,
       "colors": ["Wood"],
-      "price": 399.0,
+      "price": 399.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -429,7 +429,7 @@
       "description": "",
       "stock": 20,
       "colors": ["Wood"],
-      "price": 799.0,
+      "price": 799.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -450,7 +450,7 @@
       "description": "",
       "stock": 8,
       "colors": ["Silver"],
-      "price": 299.0,
+      "price": 299.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -471,7 +471,7 @@
       "description": "",
       "stock": 1,
       "colors": ["Silver"],
-      "price": 500.0,
+      "price": 500.00,
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -492,7 +492,7 @@
         "description": "",
         "stock": 6,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -513,7 +513,7 @@
         "description": "",
         "stock": 90,
         "colors": ["Silver"],
-        "price": 599.0,
+        "price": 599.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -534,7 +534,7 @@
         "description": "",
         "stock": 7,
         "colors": ["Silver"],
-        "price": 499.0,
+        "price": 499.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -555,7 +555,7 @@
         "description": "",
         "stock": 11,
         "colors": ["Black", "Blue", "Red"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -578,7 +578,7 @@
         "description": "",
         "stock": 62,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -599,7 +599,7 @@
         "description": "",
         "stock": 368,
         "colors": ["Black"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -620,7 +620,7 @@
         "description": "",
         "stock": 854,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -641,7 +641,7 @@
         "description": "",
         "stock": 52,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -662,7 +662,7 @@
         "description": "",
         "stock": 35,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -683,7 +683,7 @@
         "description": "",
         "stock": 44,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
@@ -704,7 +704,7 @@
         "description": "",
         "stock": 19,
         "colors": ["Silver"],
-        "price": 299.0,
+        "price": 299.00,
         "warranty": "3 years",
         "specs": {
           "height": "",
