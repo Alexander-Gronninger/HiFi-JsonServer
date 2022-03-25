@@ -80,8 +80,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/CDPlayers/exp_20105_cd.gif",
-        "silver": "http://localhost:3000/images/CDPlayers/exp_20105_cd.gif"
+        "default": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif",
+        "silver": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif"
       }
     },
     {
@@ -122,8 +122,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/DVDPlayers/exposure_20105.jpg",
-        "silver": "http://localhost:3000/images/DVDPlayers/exposure_20105.jpg"
+        "default": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg",
+        "silver": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg"
       }
     },
     {
@@ -269,8 +269,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Preamps/creek_obh_22_passive_Preamps.jpg",
-        "silver": "http://localhost:3000/images/Preamps/creek_obh_22_passive_Preamps.jpg"
+        "default": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg",
+        "silver": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg"
       }
     },
     {
@@ -374,8 +374,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Speakers/epos_m5.jpg",
-        "wood": "http://localhost:3000/images/Speakers/epos_m5.jpg"
+        "default": "http://localhost:3000/images/Speakers/epos_m5.gif",
+        "wood": "http://localhost:3000/images/Speakers/epos_m5.gif"
       }
     },
     {
@@ -459,8 +459,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_a501.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_a501.jpg"
+        "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg"
       }
     },
     {
