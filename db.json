@@ -18,7 +18,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_classic_cd.jpg",
-        "silver": "http://localhost:3000/images/CDPlayers/creek_classic_cd.jpg"
+        "silver": [
+          "http://localhost:3000/images/CDPlayers/creek_classic_cd.jpg"
+        ]
       }
     },
     {
@@ -39,7 +41,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_destiny_cd.jpg",
-        "silver": "http://localhost:3000/images/CDPlayers/creek_destiny_cd.jpg"
+        "silver": [
+          "http://localhost:3000/images/CDPlayers/creek_destiny_cd.jpg"
+        ]
       }
     },
     {
@@ -60,7 +64,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg",
-        "silver": "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg"
+        "silver": ["http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg"]
       }
     },
     {
@@ -81,7 +85,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif",
-        "silver": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif"
+        "silver": ["http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif"]
       }
     },
     {
@@ -102,7 +106,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/creek_classic.jpg",
-        "silver": "http://localhost:3000/images/DVDPlayers/creek_classic.jpg"
+        "silver": ["http://localhost:3000/images/DVDPlayers/creek_classic.jpg"]
       }
     },
     {
@@ -123,7 +127,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg",
-        "silver": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg"
+        "silver": ["http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg"]
       }
     },
     {
@@ -144,7 +148,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg",
-        "black": "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg"
+        "black": ["http://localhost:3000/images/DVDPlayers/parasound_d200.jpg"]
       }
     },
     {
@@ -165,7 +169,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/parasound_halod3.jpg",
-        "silver": "http://localhost:3000/images/DVDPlayers/parasound_halod3.jpg"
+        "silver": [
+          "http://localhost:3000/images/DVDPlayers/parasound_halod3.jpg"
+        ]
       }
     },
     {
@@ -186,7 +192,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/manley_mahi.jpg",
-        "black": "http://localhost:3000/images/PowerAmplifiers/manley_mahi.jpg"
+        "black": [
+          "http://localhost:3000/images/PowerAmplifiers/manley_mahi.jpg"
+        ]
       }
     },
     {
@@ -207,7 +215,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/manley_neoclassic300b.jpg",
-        "silver": "http://localhost:3000/images/PowerAmplifiers/manley_neoclassic300b.jpg"
+        "silver": [
+          "http://localhost:3000/images/PowerAmplifiers/manley_neoclassic300b.jpg"
+        ]
       }
     },
     {
@@ -228,7 +238,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/manley_snapper.jpg",
-        "grey": "http://localhost:3000/images/PowerAmplifiers/manley_snapper.jpg"
+        "grey": [
+          "http://localhost:3000/images/PowerAmplifiers/manley_snapper.jpg"
+        ]
       }
     },
     {
@@ -249,7 +261,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/parasound_haloa23.jpg",
-        "silver": "http://localhost:3000/images/PowerAmplifiers/parasound_haloa23.jpg"
+        "silver": [
+          "http://localhost:3000/images/PowerAmplifiers/parasound_haloa23.jpg"
+        ]
       }
     },
     {
@@ -270,7 +284,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg",
-        "silver": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg"
+        "silver": [
+          "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg"
+        ]
       }
     },
     {
@@ -291,7 +307,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/parasound_classic7100.jpg",
-        "black": "http://localhost:3000/images/Preamps/parasound_classic7100.jpg"
+        "black": [
+          "http://localhost:3000/images/Preamps/parasound_classic7100.jpg"
+        ]
       }
     },
     {
@@ -312,7 +330,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/parasound_halop3.jpg",
-        "silver": "http://localhost:3000/images/Preamps/parasound_halop3.jpg"
+        "silver": ["http://localhost:3000/images/Preamps/parasound_halop3.jpg"]
       }
     },
     {
@@ -333,7 +351,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/project_prebox.jpg",
-        "silver": "http://localhost:3000/images/Preamps/project_prebox.jpg"
+        "silver": ["http://localhost:3000/images/Preamps/project_prebox.jpg"]
       }
     },
     {
@@ -354,7 +372,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif",
-        "black": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif"
+        "black": [
+          "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif"
+        ]
       }
     },
     {
@@ -375,7 +395,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/epos_m5.gif",
-        "wood": "http://localhost:3000/images/Speakers/epos_m5.gif"
+        "wood": ["http://localhost:3000/images/Speakers/epos_m5.gif"]
       }
     },
     {
@@ -396,7 +416,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg",
-        "wood": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg"
+        "wood": ["http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg"]
       }
     },
 
@@ -418,7 +438,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_monitor30.jpg",
-        "silver": "http://localhost:3000/images/Speakers/harbeth_monitor30.jpg"
+        "silver": [
+          "http://localhost:3000/images/Speakers/harbeth_monitor30.jpg"
+        ]
       }
     },
     {
@@ -439,7 +461,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg",
-        "wood": "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg"
+        "wood": ["http://localhost:3000/images/Speakers/harbeth_p3es2.jpg"]
       }
     },
     {
@@ -460,7 +482,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg"
+        "silver": [
+          "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg"
+        ]
       }
     },
     {
@@ -481,7 +505,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_classic5350se.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_classic5350se.jpg"
+        "silver": [
+          "http://localhost:3000/images/IntegratedAmplifiers/creek_classic5350se.jpg"
+        ]
       }
     },
     {
@@ -502,7 +528,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_destinyamp.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_destinyamp.jpg"
+        "silver": [
+          "http://localhost:3000/images/IntegratedAmplifiers/creek_destinyamp.jpg"
+        ]
       }
     },
     {
@@ -523,7 +551,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/manley_snapper.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifiers/manley_snapper.jpg"
+        "silver": [
+          "http://localhost:3000/images/IntegratedAmplifiers/manley_snapper.jpg"
+        ]
       }
     },
     {
@@ -544,7 +574,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/manley_stingray.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifiers/manley_stingray.jpg"
+        "silver": [
+          "http://localhost:3000/images/IntegratedAmplifiers/manley_stingray.jpg"
+        ]
       }
     },
     {
@@ -565,9 +597,16 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
-        "blue": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
-        "red": "http://localhost:3000/images/Turntables/pro_ject_debut_3_red_1.jpg",
-        "yellow": "http://localhost:3000/images/Turntables/pro_ject_debut_3_yellow_1.jpg"
+        "blue": [
+          "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
+          "http://localhost:3000/images/Turntables/pro_ject_debut_3_red_1.jpg"
+        ],
+        "red": [
+          "http://localhost:3000/images/Turntables/pro_ject_debut_3_red_1.jpg"
+        ],
+        "yellow": [
+          "http://localhost:3000/images/Turntables/pro_ject_debut_3_yellow_1.jpg"
+        ]
       }
     },
     {
@@ -588,7 +627,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg",
-        "silver": "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg"
+        "silver": ["http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg"]
       }
     },
     {
@@ -609,7 +648,7 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg",
-        "black": "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg"
+        "black": ["http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg"]
       }
     },
     {
@@ -630,7 +669,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd102b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd102b.jpg"
+        "silver": [
+          "http://localhost:3000/images/TubeAmplifiers/jolida_jd102b.jpg"
+        ]
       }
     },
     {
@@ -651,7 +692,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd202a.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd202a.jpg"
+        "silver": [
+          "http://localhost:3000/images/TubeAmplifiers/jolida_jd202a.jpg"
+        ]
       }
     },
     {
@@ -672,7 +715,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd300b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd300b.jpg"
+        "silver": [
+          "http://localhost:3000/images/TubeAmplifiers/jolida_jd300b.jpg"
+        ]
       }
     },
     {
@@ -693,7 +738,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd302b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd302b.jpg"
+        "silver": [
+          "http://localhost:3000/images/TubeAmplifiers/jolida_jd302b.jpg"
+        ]
       }
     },
     {
@@ -714,7 +761,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd502b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd502b.jpg"
+        "silver": [
+          "http://localhost:3000/images/TubeAmplifiers/jolida_jd502b.jpg"
+        ]
       }
     }
   ],
