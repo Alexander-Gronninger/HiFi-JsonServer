@@ -8,7 +8,7 @@
       "description": "",
       "stock": 50,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -29,7 +29,7 @@
       "description": "",
       "stock": 23,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -50,7 +50,7 @@
       "description": "",
       "stock": 43,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -71,7 +71,7 @@
       "description": "",
       "stock": 73,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -92,7 +92,7 @@
       "description": "",
       "stock": 342,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -113,7 +113,7 @@
       "description": "",
       "stock": 12,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -134,7 +134,7 @@
       "description": "",
       "stock": 100,
       "colors": ["black"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -155,7 +155,7 @@
       "description": "",
       "stock": 342,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -176,7 +176,7 @@
       "description": "",
       "stock": 43,
       "colors": ["black"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -197,7 +197,7 @@
       "description": "",
       "stock": 90,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -218,7 +218,7 @@
       "description": "",
       "stock": 67,
       "colors": ["grey"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -239,7 +239,7 @@
       "description": "",
       "stock": 49,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -260,7 +260,7 @@
       "description": "",
       "stock": 23,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -281,7 +281,7 @@
       "description": "",
       "stock": 19,
       "colors": ["black"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -302,7 +302,7 @@
       "description": "",
       "stock": 72,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -323,7 +323,7 @@
       "description": "",
       "stock": 84,
       "colors": ["silver"],
-      "price": 250.0,
+      "price": "250.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -344,7 +344,7 @@
       "description": "",
       "stock": 11,
       "colors": ["black"],
-      "price": 500.0,
+      "price": "500.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -358,26 +358,26 @@
       }
     },
     {
-        "id": 501,
-        "name": "m5",
-        "brand": "Epos",
-        "category": "Speakers",
-        "description": "",
-        "stock": 301,
-        "colors": ["Wood"],
-        "price": 500.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/Speakers/epos_m5.jpg",
-          "wood": "http://localhost:3000/images/Speakers/epos_m5.jpg"
-        }
+      "id": 501,
+      "name": "m5",
+      "brand": "Epos",
+      "category": "Speakers",
+      "description": "",
+      "stock": 301,
+      "colors": ["Wood"],
+      "price": "500.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
       },
+      "images": {
+        "default": "http://localhost:3000/images/Speakers/epos_m5.jpg",
+        "wood": "http://localhost:3000/images/Speakers/epos_m5.jpg"
+      }
+    },
     {
       "id": 502,
       "name": "Hl7es2",
@@ -386,7 +386,7 @@
       "description": "",
       "stock": 992,
       "colors": ["Wood"],
-      "price": 500.0,
+      "price": "500.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -399,7 +399,7 @@
         "wood": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg"
       }
     },
-    
+
     {
       "id": 503,
       "name": "Monitor 30",
@@ -408,7 +408,7 @@
       "description": "",
       "stock": 43,
       "colors": ["Wood"],
-      "price": 399.0,
+      "price": "399.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -429,7 +429,7 @@
       "description": "",
       "stock": 20,
       "colors": ["Wood"],
-      "price": 799.0,
+      "price": "799.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -450,7 +450,7 @@
       "description": "",
       "stock": 8,
       "colors": ["Silver"],
-      "price": 299.0,
+      "price": "299.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -471,7 +471,7 @@
       "description": "",
       "stock": 1,
       "colors": ["Silver"],
-      "price": 500.0,
+      "price": "500.00",
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -485,238 +485,238 @@
       }
     },
     {
-        "id": 602,
-        "name": "Destiny amp",
-        "brand": "Creek",
-        "category": "Integrated Amplifier",
-        "description": "",
-        "stock": 6,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg",
-          "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg"
-        }
+      "id": 602,
+      "name": "Destiny amp",
+      "brand": "Creek",
+      "category": "Integrated Amplifier",
+      "description": "",
+      "stock": 6,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
       },
-      {
-        "id": 603,
-        "name": "Snapper",
-        "brand": "Manley",
-        "category": "Integrated Amplifier",
-        "description": "",
-        "stock": 90,
-        "colors": ["Silver"],
-        "price": 599.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg",
-          "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg"
-        }
-      },
-      {
-        "id": 604,
-        "name": "Stinger",
-        "brand": "Manley",
-        "category": "Integrated Amplifier",
-        "description": "",
-        "stock": 7,
-        "colors": ["Silver"],
-        "price": 499.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg",
-          "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg"
-        }
-      },
-      {
-        "id": 700,
-        "name": "Debut 3",
-        "brand": "Pro-ject",
-        "category": "Turntable",
-        "description": "",
-        "stock": 11,
-        "colors": ["Black", "Blue", "Red"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
-          "black": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
-          "red": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_red_1.jpg",
-          "yellow": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_yellow_1.jpg"
-        }
-      },
-      {
-        "id": 701,
-        "name": "RPM5",
-        "brand": "Pro-ject",
-        "category": "Turntable",
-        "description": "",
-        "stock": 62,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg",
-          "silver": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg"
-        }
-      },
-      {
-        "id": 702,
-        "name": "RPM10",
-        "brand": "Pro-ject",
-        "category": "Turntable",
-        "description": "",
-        "stock": 368,
-        "colors": ["Black"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg",
-          "black": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg"
-        }
-      },
-      {
-        "id": 800,
-        "name": "JD102b",
-        "brand": "Jolide",
-        "category": "Tube Amplifier",
-        "description": "",
-        "stock": 854,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg"
-        }
-      },
-      {
-        "id": 801,
-        "name": "JD202a",
-        "brand": "Jolida",
-        "category": "Tube Amplifier",
-        "description": "",
-        "stock": 52,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg"
-        }
-      },
-      {
-        "id": 802,
-        "name": "JD300b",
-        "brand": "Jolida",
-        "category": "Tube Amplifier",
-        "description": "",
-        "stock": 35,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg"
-        }
-      },
-      {
-        "id": 803,
-        "name": "JD302b",
-        "brand": "Jolida",
-        "category": "Tube Amplifier",
-        "description": "",
-        "stock": 44,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg"
-        }
-      },
-      {
-        "id": 804,
-        "name": "JD502b",
-        "brand": "Jolida",
-        "category": "Tube Amplifier",
-        "description": "",
-        "stock": 19,
-        "colors": ["Silver"],
-        "price": 299.0,
-        "warranty": "3 years",
-        "specs": {
-          "height": "",
-          "width": "",
-          "manufacturer": "",
-          "hdmiOutput": ""
-        },
-        "images": {
-          "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg",
-          "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg"
-        }
+      "images": {
+        "default": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg"
       }
+    },
+    {
+      "id": 603,
+      "name": "Snapper",
+      "brand": "Manley",
+      "category": "Integrated Amplifier",
+      "description": "",
+      "stock": 90,
+      "colors": ["Silver"],
+      "price": "599.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg"
+      }
+    },
+    {
+      "id": 604,
+      "name": "Stinger",
+      "brand": "Manley",
+      "category": "Integrated Amplifier",
+      "description": "",
+      "stock": 7,
+      "colors": ["Silver"],
+      "price": "499.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg"
+      }
+    },
+    {
+      "id": 700,
+      "name": "Debut 3",
+      "brand": "Pro-ject",
+      "category": "Turntable",
+      "description": "",
+      "stock": 11,
+      "colors": ["Blue", "Red", "Yellow"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
+        "blue": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
+        "red": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_red_1.jpg",
+        "yellow": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_yellow_1.jpg"
+      }
+    },
+    {
+      "id": 701,
+      "name": "RPM5",
+      "brand": "Pro-ject",
+      "category": "Turntable",
+      "description": "",
+      "stock": 62,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg",
+        "silver": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg"
+      }
+    },
+    {
+      "id": 702,
+      "name": "RPM10",
+      "brand": "Pro-ject",
+      "category": "Turntable",
+      "description": "",
+      "stock": 368,
+      "colors": ["Black"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg",
+        "black": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg"
+      }
+    },
+    {
+      "id": 800,
+      "name": "JD102b",
+      "brand": "Jolide",
+      "category": "Tube Amplifier",
+      "description": "",
+      "stock": 854,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg"
+      }
+    },
+    {
+      "id": 801,
+      "name": "JD202a",
+      "brand": "Jolida",
+      "category": "Tube Amplifier",
+      "description": "",
+      "stock": 52,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg"
+      }
+    },
+    {
+      "id": 802,
+      "name": "JD300b",
+      "brand": "Jolida",
+      "category": "Tube Amplifier",
+      "description": "",
+      "stock": 35,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg"
+      }
+    },
+    {
+      "id": 803,
+      "name": "JD302b",
+      "brand": "Jolida",
+      "category": "Tube Amplifier",
+      "description": "",
+      "stock": 44,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg"
+      }
+    },
+    {
+      "id": 804,
+      "name": "JD502b",
+      "brand": "Jolida",
+      "category": "Tube Amplifier",
+      "description": "",
+      "stock": 19,
+      "colors": ["Silver"],
+      "price": "299.00",
+      "warranty": "3 years",
+      "specs": {
+        "height": "",
+        "width": "",
+        "manufacturer": "",
+        "hdmiOutput": ""
+      },
+      "images": {
+        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg"
+      }
+    }
   ],
 
   "customers": [
