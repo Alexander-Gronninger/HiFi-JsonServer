@@ -80,8 +80,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/CDPlayers/exp_20105_cd.jpg",
-        "silver": "http://localhost:3000/images/CDPlayers/exp_20105_cd.jpg"
+        "default": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif",
+        "silver": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif"
       }
     },
     {
@@ -101,8 +101,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/CDPlayers/creek_classic.jpg",
-        "silver": "http://localhost:3000/images/CDPlayers/creek_classic.jpg"
+        "default": "http://localhost:3000/images/DVDPlayers/creek_classic.jpg",
+        "silver": "http://localhost:3000/images/DVDPlayers/creek_classic.jpg"
       }
     },
     {
@@ -122,8 +122,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/DVDPlayers/exposure_20105.jpg",
-        "silver": "http://localhost:3000/images/DVDPlayers/exposure_20105.jpg"
+        "default": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg",
+        "silver": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg"
       }
     },
     {
@@ -254,9 +254,9 @@
     },
     {
       "id": 400,
-      "name": "OBH 22 passive preamp",
+      "name": "OBH 22 passive Preamps",
       "brand": "Creek",
-      "category": "Preamp",
+      "category": "Preamps",
       "description": "",
       "stock": 23,
       "colors": ["silver"],
@@ -269,15 +269,15 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Preamp/creek_obh_22_passive_preamp.jpg",
-        "silver": "http://localhost:3000/images/Preamp/creek_obh_22_passive_preamp.jpg"
+        "default": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg",
+        "silver": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg"
       }
     },
     {
       "id": 401,
       "name": "Classic 7100",
       "brand": "Parasound",
-      "category": "Preamp",
+      "category": "Preamps",
       "description": "",
       "stock": 19,
       "colors": ["black"],
@@ -290,15 +290,15 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Preamp/parasound_classic7100.jpg",
-        "black": "http://localhost:3000/images/Preamp/parasound_classic7100.jpg"
+        "default": "http://localhost:3000/images/Preamps/parasound_classic7100.jpg",
+        "black": "http://localhost:3000/images/Preamps/parasound_classic7100.jpg"
       }
     },
     {
       "id": 402,
       "name": "Halo p3",
       "brand": "Parasound",
-      "category": "Preamp",
+      "category": "Preamps",
       "description": "",
       "stock": 72,
       "colors": ["silver"],
@@ -311,15 +311,15 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Preamp/parasound_halop3.jpg",
-        "silver": "http://localhost:3000/images/Preamp/parasound_halop3.jpg"
+        "default": "http://localhost:3000/images/Preamps/parasound_halop3.jpg",
+        "silver": "http://localhost:3000/images/Preamps/parasound_halop3.jpg"
       }
     },
     {
       "id": 403,
       "name": "Prebox",
       "brand": "Pro-Ject",
-      "category": "Preamp",
+      "category": "Preamps",
       "description": "",
       "stock": 84,
       "colors": ["silver"],
@@ -332,8 +332,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Preamp/project_prebox.jpg",
-        "silver": "http://localhost:3000/images/Preamp/project_prebox.jpg"
+        "default": "http://localhost:3000/images/Preamps/project_prebox.jpg",
+        "silver": "http://localhost:3000/images/Preamps/project_prebox.jpg"
       }
     },
     {
@@ -353,8 +353,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.jpg",
-        "black": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.jpg"
+        "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif",
+        "black": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif"
       }
     },
     {
@@ -364,8 +364,8 @@
       "category": "Speakers",
       "description": "",
       "stock": 301,
-      "colors": ["Wood"],
       "price": "500.00",
+      "colors": ["wood"],
       "warranty": "3 years",
       "specs": {
         "height": "",
@@ -374,8 +374,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Speakers/epos_m5.jpg",
-        "wood": "http://localhost:3000/images/Speakers/epos_m5.jpg"
+        "default": "http://localhost:3000/images/Speakers/epos_m5.gif",
+        "wood": "http://localhost:3000/images/Speakers/epos_m5.gif"
       }
     },
     {
@@ -385,7 +385,7 @@
       "category": "Speakers",
       "description": "",
       "stock": 992,
-      "colors": ["Wood"],
+      "colors": ["wood"],
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
@@ -407,7 +407,7 @@
       "category": "Speakers",
       "description": "",
       "stock": 43,
-      "colors": ["Wood"],
+      "colors": ["wood"],
       "price": "399.00",
       "warranty": "3 years",
       "specs": {
@@ -428,7 +428,7 @@
       "category": "Speakers",
       "description": "",
       "stock": 20,
-      "colors": ["Wood"],
+      "colors": ["wood"],
       "price": "799.00",
       "warranty": "3 years",
       "specs": {
@@ -449,7 +449,7 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 8,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -459,18 +459,18 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/IntegratedAmplifier/creek_a501.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_a501.jpg"
+        "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg"
       }
     },
     {
       "id": 601,
       "name": "Classic 5350SE",
       "brand": "Creek",
-      "category": "Integrated Amplifiers",
+      "category": "Integrated Amplifier",
       "description": "",
       "stock": 1,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
@@ -480,8 +480,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/IntegratedAmplifier/creek_classic5350se.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_classic5350se.jpg"
+        "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_classic5350se.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_classic5350se.jpg"
       }
     },
     {
@@ -491,7 +491,7 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 6,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -501,8 +501,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifier/creek_destinyamp.jpg"
+        "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_destinyamp.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifiers/creek_destinyamp.jpg"
       }
     },
     {
@@ -512,7 +512,7 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 90,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "599.00",
       "warranty": "3 years",
       "specs": {
@@ -522,8 +522,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_snapper.jpg"
+        "default": "http://localhost:3000/images/IntegratedAmplifiers/manley_snapper.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifiers/manley_snapper.jpg"
       }
     },
     {
@@ -533,7 +533,7 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 7,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "499.00",
       "warranty": "3 years",
       "specs": {
@@ -543,18 +543,18 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg",
-        "silver": "http://localhost:3000/images/IntegratedAmplifier/manley_stingray.jpg"
+        "default": "http://localhost:3000/images/IntegratedAmplifiers/manley_stingray.jpg",
+        "silver": "http://localhost:3000/images/IntegratedAmplifiers/manley_stingray.jpg"
       }
     },
     {
       "id": 700,
       "name": "Debut 3",
       "brand": "Pro-ject",
-      "category": "Turntable",
+      "category": "Turntables",
       "description": "",
       "stock": 11,
-      "colors": ["Blue", "Red", "Yellow"],
+      "colors": ["blue", "red", "yellow"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -564,20 +564,20 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
-        "blue": "http://localhost:3000/images/Turntable/Pro_ject_Debut_3_bl.jpg",
-        "red": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_red_1.jpg",
-        "yellow": "http://localhost:3000/images/Turntable/Pro_ject_Debut_III_yellow_1.jpg"
+        "default": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
+        "blue": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
+        "red": "http://localhost:3000/images/Turntables/pro_ject_debut_3_red_1.jpg",
+        "yellow": "http://localhost:3000/images/Turntables/pro_ject_debut_3_yellow_1.jpg"
       }
     },
     {
       "id": 701,
       "name": "RPM5",
       "brand": "Pro-ject",
-      "category": "Turntable",
+      "category": "Turntables",
       "description": "",
       "stock": 62,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -587,18 +587,18 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg",
-        "silver": "http://localhost:3000/images/Turntable/Pro_ject_rpm_5.jpg"
+        "default": "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg",
+        "silver": "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg"
       }
     },
     {
       "id": 702,
       "name": "RPM10",
       "brand": "Pro-ject",
-      "category": "Turntable",
+      "category": "Turntables",
       "description": "",
       "stock": 368,
-      "colors": ["Black"],
+      "colors": ["black"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -608,8 +608,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg",
-        "black": "http://localhost:3000/images/Turntable/Pro_ject_rpm10.jpg"
+        "default": "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg",
+        "black": "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg"
       }
     },
     {
@@ -619,7 +619,7 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 854,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -629,8 +629,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD102b.jpg"
+        "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd102b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd102b.jpg"
       }
     },
     {
@@ -640,7 +640,7 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 52,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -650,8 +650,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD202a.jpg"
+        "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd202a.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd202a.jpg"
       }
     },
     {
@@ -661,7 +661,7 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 35,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -671,8 +671,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD300b.jpg"
+        "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd300b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd300b.jpg"
       }
     },
     {
@@ -682,7 +682,7 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 44,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -692,8 +692,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD302b.jpg"
+        "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd302b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd302b.jpg"
       }
     },
     {
@@ -703,7 +703,7 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 19,
-      "colors": ["Silver"],
+      "colors": ["silver"],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -713,8 +713,8 @@
         "hdmiOutput": ""
       },
       "images": {
-        "default": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg",
-        "silver": "http://localhost:3000/images/TubeAmplifier/jolida_JD502b.jpg"
+        "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd502b.jpg",
+        "silver": "http://localhost:3000/images/TubeAmplifiers/jolida_jd502b.jpg"
       }
     }
   ],
@@ -732,7 +732,7 @@
         "city": "Roskilde",
         "country": "Denmark"
       },
-      "phone": "12345678"
+      "phone": "12345679"
     }
   ],
   "orders": [
