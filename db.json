@@ -598,8 +598,7 @@
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
         "blue": [
-          "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
-          "http://localhost:3000/images/Turntables/pro_ject_debut_3_red_1.jpg"
+          "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg"
         ],
         "red": [
           "http://localhost:3000/images/Turntables/pro_ject_debut_3_red_1.jpg"
