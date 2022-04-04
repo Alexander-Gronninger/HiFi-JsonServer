@@ -590,10 +590,12 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "100",
+        "width": "200",
+        "depth": "300",
+        "weight": "5",
+        "manufacturer": "Pro-ject",
+        "hdmiOutput": "yes"
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
