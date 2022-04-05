@@ -782,7 +782,8 @@
         "city": "Roskilde",
         "country": "Denmark"
       },
-      "phone": "12345679"
+      "phone": "12345679",
+      "email": "123456789@gmail.com"
     }
   ],
   "orders": [
