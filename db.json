@@ -791,11 +791,33 @@
       "order_number": "123532532436",
       "products": [
         {
-          "productId": "1",
-          "product_amount": "12"
+          "productId": "100",
+          "product_amount": "2",
+          "color": "Silver",
+          "productPrice": 200.0
+        },
+        {
+          "productId": "700",
+          "product_amount": "4",
+          "color": "Blue",
+          "productPrice": 250.0
         }
       ],
-      "customerId": 1
+      "totalsum": 450.0,
+      "orderDate": "22/22/2022",
+      "currency": "GBP",
+      "costumerName": "Brian",
+      "customerId": 1,
+      "deliveryMethod": "To home",
+      "deliveryPrice": "4.00",
+      "deliveryAddress": {
+        "street": "Pulsen",
+        "number": "8",
+        "apartment": "-",
+        "zip_code": "4000",
+        "city": "Roskilde",
+        "country": "Denmark"
+      }
     }
   ]
 }
