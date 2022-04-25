@@ -11,10 +11,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "20cm",
+        "width": "80cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_classic_cd.jpg",
@@ -34,10 +34,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "20cm",
+        "width": "80cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_destiny_cd.jpg",
@@ -57,10 +57,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "20cm",
+        "width": "80cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg",
@@ -78,10 +78,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "22cm",
+        "width": "70cm",
+        "manufacturer": "EXProductions",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif",
@@ -99,10 +99,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "24cm",
+        "width": "82cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/creek_classic.jpg",
@@ -120,10 +120,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "21cm",
+        "width": "78cm",
+        "manufacturer": "Exposure LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg",
@@ -141,10 +141,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "19cm",
+        "width": "72cm",
+        "manufacturer": "Paratech",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg",
@@ -162,10 +162,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "19cm",
+        "width": "72cm",
+        "manufacturer": "Paratech",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/parasound_halod3.jpg",
@@ -185,10 +185,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "30cm",
+        "width": "60cm",
+        "manufacturer": "Manleysoft",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/manley_mahi.jpg",
@@ -208,10 +208,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "30cm",
+        "width": "60cm",
+        "manufacturer": "Manleysoft",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/manley_neoclassic300b.jpg",
@@ -231,10 +231,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "30cm",
+        "width": "60cm",
+        "manufacturer": "Manleysoft",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/manley_snapper.jpg",
@@ -254,10 +254,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "33cm",
+        "width": "65cm",
+        "manufacturer": "Paratech",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/PowerAmplifiers/parasound_haloa23.jpg",
@@ -277,10 +277,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "40cm",
+        "width": "80cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/creek_obh_22_passive_preamp.jpg",
@@ -300,10 +300,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "42cm",
+        "width": "82cm",
+        "manufacturer": "Paratech",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/parasound_classic7100.jpg",
@@ -323,10 +323,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "42cm",
+        "width": "82cm",
+        "manufacturer": "Paratech",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/parasound_halop3.jpg",
@@ -344,10 +344,10 @@
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "39cm",
+        "width": "89cm",
+        "manufacturer": "Pro-ductions",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/project_prebox.jpg",
@@ -365,10 +365,10 @@
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "120cm",
+        "width": "50cm",
+        "manufacturer": "German Engineering LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/boesendorfer_vcs_wall.gif",
@@ -388,10 +388,10 @@
       "colors": ["wood"],
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "115cm",
+        "width": "35cm",
+        "manufacturer": "Eproduction",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/epos_m5.gif",
@@ -409,10 +409,10 @@
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "111cm",
+        "width": "22cm",
+        "manufacturer": "Repetitive measurements LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg",
@@ -431,10 +431,10 @@
       "price": "399.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "111cm",
+        "width": "33cm",
+        "manufacturer": "Repetitive measurements LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_monitor30.jpg",
@@ -454,10 +454,10 @@
       "price": "799.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "111cm",
+        "width": "44cm",
+        "manufacturer": "Repetitive measurements LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg",
@@ -475,10 +475,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "40cm",
+        "width": "90cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_a50l.jpg",
@@ -498,10 +498,10 @@
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "40cm",
+        "width": "90cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_classic5350se.jpg",
@@ -521,10 +521,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "40cm",
+        "width": "90cm",
+        "manufacturer": "Creek LLC",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/creek_destinyamp.jpg",
@@ -544,10 +544,10 @@
       "price": "599.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "34cm",
+        "width": "830cm",
+        "manufacturer": "Manleysoft",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/manley_snapper.jpg",
@@ -567,10 +567,10 @@
       "price": "499.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "34cm",
+        "width": "830cm",
+        "manufacturer": "Manleysoft",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/IntegratedAmplifiers/manley_stingray.jpg",
@@ -590,12 +590,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "100",
-        "width": "200",
-        "depth": "300",
-        "weight": "5",
-        "manufacturer": "Pro-Ject",
-        "hdmiOutput": "yes"
+        "height": "30cm",
+        "width": "120cm",
+        "manufacturer": "Pro-ductions",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_debut_3_bl.jpg",
@@ -621,10 +619,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "30cm",
+        "width": "122cm",
+        "manufacturer": "Pro-ductions",
+        "hdmiOutput": "No"
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg",
@@ -642,10 +640,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "30cm",
+        "width": "120cm",
+        "manufacturer": "Pro-ductions",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg",
@@ -663,10 +661,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "65cm",
+        "width": "72cm",
+        "manufacturer": "Jolida Technology",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd102b.jpg",
@@ -686,10 +684,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "62cm",
+        "width": "75cm",
+        "manufacturer": "Jolida Technology",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd202a.jpg",
@@ -709,10 +707,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "64cm",
+        "width": "71cm",
+        "manufacturer": "Jolida Technology",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd300b.jpg",
@@ -732,10 +730,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "63cm",
+        "width": "73cm",
+        "manufacturer": "Jolida Technology",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd302b.jpg",
@@ -755,10 +753,10 @@
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
-        "height": "",
-        "width": "",
-        "manufacturer": "",
-        "hdmiOutput": ""
+        "height": "61cm",
+        "width": "76cm",
+        "manufacturer": "Jolida Technology",
+        "hdmiOutput": "Yes"
       },
       "images": {
         "default": "http://localhost:3000/images/TubeAmplifiers/jolida_jd502b.jpg",
