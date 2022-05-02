@@ -770,7 +770,6 @@
   "customers": [
     {
       "id": 1,
-      "username": "Tom",
       "password": "12345",
       "address": {
         "street": "Pulsen",
@@ -793,24 +792,24 @@
           "productId": "100",
           "productAmount": "2",
           "color": "Silver",
-          "productPrice": 200.00,
+          "productPrice": 200.0,
           "productName": "Creek Classic CD"
         },
         {
           "productId": "700",
           "productAmount": "4",
           "color": "Blue",
-          "productPrice": 250.00,
+          "productPrice": 250.0,
           "productName": "Pro-Ject Debut 3"
         }
       ],
-      "totalsum": 450.00,
+      "totalsum": 450.0,
       "orderDate": "22/22/2022",
       "currency": "GBP",
       "costumerName": "Brian",
       "customerId": 1,
       "deliveryMethod": "To home",
-      "deliveryPrice": 4.00,
+      "deliveryPrice": 4.0,
       "deliveryAddress": {
         "street": "Pulsen",
         "number": "8",
