@@ -771,13 +771,10 @@
     {
       "id": 1,
       "password": "12345",
-      "address": {
-        "street": "Pulsen",
-        "number": "8",
-        "apartment": "-",
-        "zip_code": "4000",
-        "city": "Roskilde",
-        "country": "Denmark"
+      "billingaddress": {
+        "zipcode": "1234",
+        "city": "lolcity",
+        "address": "lolgade 123"
       },
       "phone": "12345679",
       "email": "123456789@gmail.com"
@@ -808,7 +805,11 @@
       "currency": "GBP",
       "costumerName": "Brian",
       "customerId": 1,
-      "billingAddress": "whateverstreet",
+      "billingaddress": {
+        "zipcode": "1234",
+        "city": "lolcity",
+        "address": "lolgade 123"
+      },
       "deliveryMethod": "To home",
       "deliveryPrice": 4.0,
       "deliveryAddress": {}
