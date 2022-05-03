@@ -7,7 +7,9 @@
       "category": "CD Player",
       "description": "",
       "stock": 50,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -30,7 +32,9 @@
       "category": "CD Player",
       "description": "",
       "stock": 23,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -53,7 +57,9 @@
       "category": "CD Player",
       "description": "",
       "stock": 43,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -64,7 +70,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg",
-        "silver": ["http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg"]
+        "silver": [
+          "http://localhost:3000/images/CDPlayers/creek_evo_cd.jpg"
+        ]
       }
     },
     {
@@ -74,7 +82,9 @@
       "category": "CD Player",
       "description": "",
       "stock": 73,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -85,7 +95,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif",
-        "silver": ["http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif"]
+        "silver": [
+          "http://localhost:3000/images/CDPlayers/exp_2010s_cd.gif"
+        ]
       }
     },
     {
@@ -95,7 +107,9 @@
       "category": "DVD Player",
       "description": "",
       "stock": 342,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -106,7 +120,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/creek_classic.jpg",
-        "silver": ["http://localhost:3000/images/DVDPlayers/creek_classic.jpg"]
+        "silver": [
+          "http://localhost:3000/images/DVDPlayers/creek_classic.jpg"
+        ]
       }
     },
     {
@@ -116,7 +132,9 @@
       "category": "DVD Player",
       "description": "",
       "stock": 12,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -127,7 +145,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg",
-        "silver": ["http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg"]
+        "silver": [
+          "http://localhost:3000/images/DVDPlayers/exposure_2010s.jpg"
+        ]
       }
     },
     {
@@ -137,7 +157,9 @@
       "category": "DVD Player",
       "description": "",
       "stock": 100,
-      "colors": ["black"],
+      "colors": [
+        "black"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -148,7 +170,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg",
-        "black": ["http://localhost:3000/images/DVDPlayers/parasound_d200.jpg"]
+        "black": [
+          "http://localhost:3000/images/DVDPlayers/parasound_d200.jpg"
+        ]
       }
     },
     {
@@ -158,7 +182,9 @@
       "category": "DVD Player",
       "description": "",
       "stock": 342,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -181,7 +207,9 @@
       "category": "Power Amplifier",
       "description": "",
       "stock": 43,
-      "colors": ["black"],
+      "colors": [
+        "black"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -204,7 +232,9 @@
       "category": "Power Amplifier",
       "description": "",
       "stock": 90,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -227,7 +257,9 @@
       "category": "Power Amplifier",
       "description": "",
       "stock": 67,
-      "colors": ["grey"],
+      "colors": [
+        "grey"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -250,7 +282,9 @@
       "category": "Power Amplifier",
       "description": "",
       "stock": 49,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -273,7 +307,9 @@
       "category": "Preamp",
       "description": "",
       "stock": 23,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -296,7 +332,9 @@
       "category": "Preamp",
       "description": "",
       "stock": 19,
-      "colors": ["black"],
+      "colors": [
+        "black"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -319,7 +357,9 @@
       "category": "Preamp",
       "description": "",
       "stock": 72,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -330,7 +370,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/parasound_halop3.jpg",
-        "silver": ["http://localhost:3000/images/Preamps/parasound_halop3.jpg"]
+        "silver": [
+          "http://localhost:3000/images/Preamps/parasound_halop3.jpg"
+        ]
       }
     },
     {
@@ -340,7 +382,9 @@
       "category": "Preamp",
       "description": "",
       "stock": 84,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "250.00",
       "warranty": "3 years",
       "specs": {
@@ -351,7 +395,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Preamps/project_prebox.jpg",
-        "silver": ["http://localhost:3000/images/Preamps/project_prebox.jpg"]
+        "silver": [
+          "http://localhost:3000/images/Preamps/project_prebox.jpg"
+        ]
       }
     },
     {
@@ -361,7 +407,9 @@
       "category": "Speaker",
       "description": "",
       "stock": 11,
-      "colors": ["black"],
+      "colors": [
+        "black"
+      ],
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
@@ -385,7 +433,9 @@
       "description": "",
       "stock": 301,
       "price": "500.00",
-      "colors": ["wood"],
+      "colors": [
+        "wood"
+      ],
       "warranty": "3 years",
       "specs": {
         "height": "115cm",
@@ -395,7 +445,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/epos_m5.gif",
-        "wood": ["http://localhost:3000/images/Speakers/epos_m5.gif"]
+        "wood": [
+          "http://localhost:3000/images/Speakers/epos_m5.gif"
+        ]
       }
     },
     {
@@ -405,7 +457,9 @@
       "category": "Speaker",
       "description": "",
       "stock": 992,
-      "colors": ["wood"],
+      "colors": [
+        "wood"
+      ],
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
@@ -416,10 +470,11 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg",
-        "wood": ["http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg"]
+        "wood": [
+          "http://localhost:3000/images/Speakers/harbeth_hl7es2.jpg"
+        ]
       }
     },
-
     {
       "id": 503,
       "name": "Monitor 30",
@@ -427,7 +482,9 @@
       "category": "Speaker",
       "description": "",
       "stock": 43,
-      "colors": ["wood"],
+      "colors": [
+        "wood"
+      ],
       "price": "399.00",
       "warranty": "3 years",
       "specs": {
@@ -450,7 +507,9 @@
       "category": "Speaker",
       "description": "",
       "stock": 20,
-      "colors": ["wood"],
+      "colors": [
+        "wood"
+      ],
       "price": "799.00",
       "warranty": "3 years",
       "specs": {
@@ -461,7 +520,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg",
-        "wood": ["http://localhost:3000/images/Speakers/harbeth_p3es2.jpg"]
+        "wood": [
+          "http://localhost:3000/images/Speakers/harbeth_p3es2.jpg"
+        ]
       }
     },
     {
@@ -471,7 +532,9 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 8,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -494,7 +557,9 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 1,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "500.00",
       "warranty": "3 years",
       "specs": {
@@ -517,7 +582,9 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 6,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -540,7 +607,9 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 90,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "599.00",
       "warranty": "3 years",
       "specs": {
@@ -563,7 +632,9 @@
       "category": "Integrated Amplifier",
       "description": "",
       "stock": 7,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "499.00",
       "warranty": "3 years",
       "specs": {
@@ -586,7 +657,11 @@
       "category": "Turntable",
       "description": "",
       "stock": 11,
-      "colors": ["blue", "red", "yellow"],
+      "colors": [
+        "blue",
+        "red",
+        "yellow"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -615,7 +690,9 @@
       "category": "Turntable",
       "description": "",
       "stock": 62,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -626,7 +703,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg",
-        "silver": ["http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg"]
+        "silver": [
+          "http://localhost:3000/images/Turntables/pro_ject_rpm_5.jpg"
+        ]
       }
     },
     {
@@ -636,7 +715,9 @@
       "category": "Turntable",
       "description": "",
       "stock": 368,
-      "colors": ["black"],
+      "colors": [
+        "black"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -647,7 +728,9 @@
       },
       "images": {
         "default": "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg",
-        "black": ["http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg"]
+        "black": [
+          "http://localhost:3000/images/Turntables/pro_ject_rpm10.jpg"
+        ]
       }
     },
     {
@@ -657,7 +740,9 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 854,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -680,7 +765,9 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 52,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -703,7 +790,9 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 35,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -726,7 +815,9 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 44,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -749,7 +840,9 @@
       "category": "Tube Amplifier",
       "description": "",
       "stock": 19,
-      "colors": ["silver"],
+      "colors": [
+        "silver"
+      ],
       "price": "299.00",
       "warranty": "3 years",
       "specs": {
@@ -766,7 +859,6 @@
       }
     }
   ],
-
   "customers": [
     {
       "id": 1,
@@ -778,6 +870,14 @@
       },
       "phone": "12345679",
       "email": "123456789@gmail.com"
+    },
+    {
+      "billingAddress": {
+        "zipcode": "6666",
+        "city": "paracity",
+        "address": "parastreet 66"
+      },
+      "id": 2
     }
   ],
   "orders": [
@@ -789,18 +889,18 @@
           "productId": "100",
           "productAmount": "2",
           "color": "Silver",
-          "productPrice": 200.0,
+          "productPrice": 200,
           "productName": "Creek Classic CD"
         },
         {
           "productId": "700",
           "productAmount": "4",
           "color": "Blue",
-          "productPrice": 250.0,
+          "productPrice": 250,
           "productName": "Pro-Ject Debut 3"
         }
       ],
-      "totalsum": 450.0,
+      "totalsum": 450,
       "orderDate": "22/22/2022",
       "currency": "GBP",
       "costumerName": "Brian",
@@ -811,7 +911,7 @@
         "address": "lolgade 123"
       },
       "deliveryMethod": "To home",
-      "deliveryPrice": 4.0,
+      "deliveryPrice": 4,
       "deliveryAddress": {}
     }
   ]
