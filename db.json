@@ -808,16 +808,10 @@
       "currency": "GBP",
       "costumerName": "Brian",
       "customerId": 1,
+      "billingAddress": "whateverstreet",
       "deliveryMethod": "To home",
       "deliveryPrice": 4.0,
-      "deliveryAddress": {
-        "street": "Pulsen",
-        "number": "8",
-        "apartment": "-",
-        "zip_code": "4000",
-        "city": "Roskilde",
-        "country": "Denmark"
-      }
+      "deliveryAddress": {}
     }
   ]
 }
